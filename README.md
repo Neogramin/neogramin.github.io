@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Rohit Kumar portfolio page</h1>
   <i>This page has been designed with PortfolYou theme</i>
-
-  <a href="https://imrohitkumar.github.io>Visit Site</a>
+*
+  <a href="https://imrohitkumar.github.io">Visit Site</a>
   
   <a href="https://imrohitkumar.github.io/about">About Me</a>
 
