@@ -11,7 +11,7 @@ This Privacy Policy details how your personal information is collected and proce
 
 <b> What information does the Application obtain and how is it used? </b>
 
-User Provided Information
+<b> User Provided Information </b>
 
 The Application obtains the information you provide when you download, register and use the Application. 
 
@@ -26,7 +26,7 @@ The Application obtains the information you provide when you download, register 
 We may use the information you provided us to contact you from time to time to provide you with important information, required notices, and marketing
 promotions.
 
-Automatically Collected Information
+<b> Automatically Collected Information </b>
 
 In addition, the Application may collect the following information automatically: the type of mobile device you use, your mobile
 devices unique device ID, your IP address, your advertising ID, your mobile operating system, the type of mobile Internet browsers you use, the name of your mobile operator or ISP, language, time zone, and information about the way you use the Application. 
@@ -56,14 +56,14 @@ Place of processing: US
 Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third
 party’s consent to provide the Data to the Owner.
 
-Does the Application collect precise real-time location information of the device?
+<b> Does the Application collect precise real-time location information of the device? </b>
 
 When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located within and display a location map with relevant advertisements. 
 
 If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located
 in your account settings or in your mobile phone settings and/or within the mobile application.
 
-The Use of the Collected Data
+<b> The Use of the Collected Data </b>
 
 We use information about you for the following purposes in accordance with the legal bases for each type of personal data as described below:
 
@@ -89,7 +89,7 @@ Our processing for the above purpose is justified by our legitimate interests in
 6(1)(f) of the GDPR. The disclosure of your advertising ID to third parties for the purposes of behavioral advertising is based on your consent in accordance with
 Article 6(1)(a) of the GDPR (see more below under Sharing of Information).
 
-Storage of information
+<b> Storage of information </b>
 
 We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected
 information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the
@@ -97,7 +97,7 @@ Application, please contact us at hello [a] walliapp.com and we will respond in 
 
 When you delete your account we delete all identifiable information about you as detailed above in section 1. 
 
-How is this information shared?
+<b> How is this information shared? </b>
 
 We disclose information about you to the following categories of third parties:
 
@@ -155,15 +155,15 @@ If Stanga or Shine Media is involved in a merger, acquisition, or sale of all or
 If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled “Opt-out”
 below.
 
-Transfer of information to third countries
+<b> Transfer of information to third countries </b>
 
 As explained in section 4 we share certain information with third parties which might store your information in countries that are outside your country and outside the European Union. We choose our third parties carefully and only work with those that are fully compliant with our privacy policy and all laws and regulation in place concerning the processing of personal information. 
 
-How can you exercise your rights provided under the GDPR?
+<b> How can you exercise your rights provided under the GDPR? </b>
 
 Under the General Data Protection Regulation, you have the right to access, rectify, port and erase your data. To exercise these rights please contact us at hello [a] walliapp.com. We will answer your requests immediately in any event within one month of our receipt of the request.
 
-What are my opt-out rights?
+<b> What are my opt-out rights? </b>
 
 There are multiple opt-out options for users of this Application:
 
@@ -171,27 +171,27 @@ Opt-out of all information collection by uninstalling the Application: You can s
 
 Opt-out from the use of information to serve targeted advertising by advertisers and/or third party network advertisers: you may at any time opt-out from further allowing us to have access to your location data by following these steps: in your device, go to Settings => Google => Ads, and check “opt-out of interested-based ads” or on Apple devices in Settings => Privacy => Advertising  => Activate the “Limit Ad Tracking”. 
 
-The right to withdraw consent
+<b> The right to withdraw consent </b>
 
 If we asked for your consent to process specific personal information as described in the sections above you have the right to withdraw your consent at any time by contacting us at hello [a] walliapp.com or directly from the Application settings.
 
-Children
+<b> Children </b>
 
 We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or
 her child has provided us with information without their consent, he or she should contact us at hello [a] walliapp.com . We will delete such information from
 our files within a reasonable time.
 
-Security
+<b> Security </b>
 
 We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect
 the information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, developer improves our Application. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-Contact us
+<b> Contact us </b>
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at
 dailgoninc@gmail.com.
 
-Changes
+<b> Changes </b>
 
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued
 use is deemed approval of all changes. You can check the history of this policy below.
