@@ -9,7 +9,7 @@ weight: 3
 
 This Privacy Policy details how your personal information is collected and processed by Dailgon Inc when you use any mobile application (the “Application”). Dailgon parent company and co-developer, Rohit Kumar, is the legal entity that collects, processes and shares your personal information on any app developed by it.
 
-What information does the Application obtain and how is it used?
+# *What information does the Application obtain and how is it used?*
 
 User Provided Information
 
