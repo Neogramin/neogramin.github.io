@@ -112,7 +112,7 @@ or respond to a government request;
 
 (e) Ad networks in order to serve advertisements such as:
 
-Facebook ads: https://www.facebook.com/about/privacy/update
+Facebook ads:<a> https://www.facebook.com/about/privacy/update </a>
 
 Google: https://policies.google.com/privacy/partners
 
