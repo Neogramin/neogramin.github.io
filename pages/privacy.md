@@ -7,7 +7,7 @@ weight: 3
 
 # **Privacy Policy**
 
-This Privacy Policy details how your personal information is collected and processed by Dailgon Inc when you use any mobile application (the “Application”). Dailgon parent company and co-developer, Rohit Kumar, is the legal entity that collects, processes and shares your personal information on any app developed by it.
+This Privacy Policy details how your personal information is collected and processed by IdeaGram Inc and or Dreamverse Inc when you use any mobile application (the “Application”). IdeaGram Inc parent company and co-developer, Rohit Kumar, is the legal entity that collects, processes and shares your personal information on any app developed by it.
 
 <b> What information does the Application obtain and how is it used? </b>
 
@@ -196,4 +196,4 @@ dailgoninc@gmail.com.
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued
 use is deemed approval of all changes. You can check the history of this policy below.
 
-Privacy Policy last updated on 11th March, 2022
+Privacy Policy last updated on 10th Feb, 2024
