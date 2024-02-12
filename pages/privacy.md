@@ -189,7 +189,7 @@ the information we process and maintain. For example, we limit access to this in
 <b> Contact us </b>
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at
-dailgoninc@gmail.com.
+dreamvese@icloud.com or you can also reach us at dreamvese@gmail.com.
 
 <b> Changes </b>
 
