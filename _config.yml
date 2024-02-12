@@ -1,10 +1,12 @@
 ### Site Settings ###
 title               : Dreamverse Inc
 description         : >-
-                      Here at dreamverse, we dream of great ideas and applications
-                      and bring the our best apps to you.
+                      We turn coffee :coffee: into code,
+                      here at dreamverse we are commited
+                      to bring best applications to you.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -23,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Neetesh Kumar
+  name              : Dreamverse Inc
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
