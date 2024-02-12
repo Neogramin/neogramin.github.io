@@ -7,7 +7,7 @@ weight: 3
 
 # **Privacy Policy**
 
-This Privacy Policy details how your personal information is collected and processed by IdeaGram Inc and or Dreamverse Inc when you use any mobile application (the “Application”). IdeaGram Inc parent company and co-developer, Rohit Kumar, is the legal entity that collects, processes and shares your personal information on any app developed by it.
+This Privacy Policy details how your personal information is collected and processed by IdeaGram Inc and or Dreamverse Inc when you use any mobile application (the “Application”). IdeaGram Inc parent company and co-developer, Rohit Kumar and or Neetesh Kumar, is the legal entity that collects, processes and shares your personal information on any app developed by it.
 
 <b> What information does the Application obtain and how is it used? </b>
 
