@@ -1,8 +1,8 @@
 ### Site Settings ###
-title               : Dreamverse
+title               : IdeaGram
 description         : >-
                       We turn coffee :coffee: into code,
-                      here at dreamverse we are commited
+                      here at ideagram we are commited
                       to bring best applications to you.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Dreamverse
+  name              : IdeaGram
   image             : https://i.imgur.com/mvRU9R5.png
   behance           : your_username
 # dribbble          : your_username
