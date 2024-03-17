@@ -1,5 +1,5 @@
 ---
-title: Devin AI: Developer Assistant or Replacement? A Look at the Future of Coding
+title: Devin AI - Developer Assistant or Replacement? A Look at the Future of Coding
 tags: [External Post, Git]
 style: fill
 color: warning
