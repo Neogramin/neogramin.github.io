@@ -5,7 +5,7 @@ permalink: /privacy/
 weight: 3
 ---
 
-# Welcome to our Neogram’s comprehensive Privacy Policy. This document is designed to inform you about the types of personal information we collect, how we use and protect that information, and your rights regarding your personal data.
+Welcome to our Neogram’s comprehensive Privacy Policy. This document is designed to inform you about the types of personal information we collect, how we use and protect that information, and your rights regarding your personal data.
 
 1. Information We Collect
 
